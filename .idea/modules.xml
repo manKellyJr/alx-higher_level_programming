@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/alx-higher_level_progamming.iml" filepath="$PROJECT_DIR$/.idea/alx-higher_level_progamming.iml" />
+      <module fileurl="file://$USER_HOME$/0x01-CodingProjects/100daysofcodepython/100DaysOfCode/round_one/.idea/round_one.iml" filepath="$USER_HOME$/0x01-CodingProjects/100daysofcodepython/100DaysOfCode/round_one/.idea/round_one.iml" />
     </modules>
   </component>
 </project>

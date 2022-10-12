@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53491454-2b6d-4f8a-a6fb-d2f7db078476" name="Default Changelist" comment="tests and exceptions">
+      <change afterPath="$PROJECT_DIR$/0x05-python-exceptions/tests/103-tests.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2G3APH6J9uWDqeHmcWX2GLC1wJm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\obed\ALXSE\alx-higher_level_programming" />
+      <recent name="C:\Users\obed\0x01-CodingProjects\100daysofcodepython\100DaysOfCode\round_one\011" />
+      <recent name="C:\Users\obed\0x01-CodingProjects\100daysofcodepython\100DaysOfCode\round_one\010" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53491454-2b6d-4f8a-a6fb-d2f7db078476" name="Default Changelist" comment="" />
+      <created>1665606869896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665606869896</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Changed file to empty">
+      <created>1665607197694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665607197694</updated>
+    </task>
+    <task id="LOCAL-00002" summary="safe-print">
+      <created>1665608628402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608628402</updated>
+    </task>
+    <task id="LOCAL-00003" summary="safe-">
+      <created>1665608650587</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608650587</updated>
+    </task>
+    <task id="LOCAL-00004" summary="safe-print-integer test file">
+      <created>1665608668293</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608668293</updated>
+    </task>
+    <task id="LOCAL-00005" summary="safe-print-integers test file">
+      <created>1665608685032</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608685032</updated>
+    </task>
+    <task id="LOCAL-00006" summary="safe-print-integers test file">
+      <created>1665608711224</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608711224</updated>
+    </task>
+    <task id="LOCAL-00007" summary="safe-print-integers\">
+      <created>1665608725204</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608725204</updated>
+    </task>
+    <task id="LOCAL-00008" summary="safe-print-integers division test file">
+      <created>1665608752334</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608752334</updated>
+    </task>
+    <task id="LOCAL-00009" summary="safe-print-integers division">
+      <created>1665608768149</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608768149</updated>
+    </task>
+    <task id="LOCAL-00010" summary="list_division test file">
+      <created>1665608805061</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608805061</updated>
+    </task>
+    <task id="LOCAL-00011" summary="list_division test file">
+      <created>1665608823976</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608823976</updated>
+    </task>
+    <task id="LOCAL-00012" summary="tests and exceptions">
+      <created>1665608864790</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665608864790</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed file to empty" />
+    <MESSAGE value="safe-print test file" />
+    <MESSAGE value="safe-print-list" />
+    <MESSAGE value="safe-print-integer test file" />
+    <MESSAGE value="safe-print-integer" />
+    <MESSAGE value="safe-print-integers test file" />
+    <MESSAGE value="safe-print-integers" />
+    <MESSAGE value="safe-print-integers division test file" />
+    <MESSAGE value="safe-print-integers division" />
+    <MESSAGE value="list_division" />
+    <MESSAGE value="list_division test file" />
+    <MESSAGE value="tests and exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests and exceptions" />
+  </component>
+</project>
